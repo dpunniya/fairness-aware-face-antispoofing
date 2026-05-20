@@ -1,0 +1,5 @@
+Model,AUC,EER,Gap (demo)
+Baseline,47.7,48.4,-
+Balanced,52.7,46.7,-
+Re-weighted,45.5,56.0,-
+Combined,51.2,51.1,-
